@@ -5,7 +5,7 @@
 1. **Clone the repository:**
    ```bash
    git clone git@github.com:duongkimnam/crawl-pokemon.git
-   cd crawl-data-pokemon
+   cd crawl-pokemon
    ```
 
 2. **Install dependencies:**
