@@ -1,0 +1,350 @@
+{
+  "name": "Calyrex-Shadow",
+  "types": [
+    "psychic",
+    "ghost"
+  ],
+  "stats": {
+    "hp": 100,
+    "atk": 85,
+    "def": 80,
+    "spa": 165,
+    "spd": 100,
+    "spe": 150
+  },
+  "ss": true,
+  "abilities": [],
+  "raw_count": "555",
+  "percent": 37,
+  "ranking": "3",
+  "viability": "B+",
+  "items": [
+    {
+      "item": "Life Orb",
+      "item_us": "Life_Orb",
+      "percent": "36.661"
+    },
+    {
+      "item": "Focus Sash",
+      "item_us": "Focus_Sash",
+      "percent": "31.525"
+    },
+    {
+      "item": "Choice Specs",
+      "item_us": "Choice_Specs",
+      "percent": "14.226"
+    },
+    {
+      "item": "Spell Tag",
+      "item_us": "Spell_Tag",
+      "percent": "6.767"
+    },
+    {
+      "item": "Covert Cloak",
+      "item_us": "Covert_Cloak",
+      "percent": "2.708"
+    },
+    {
+      "item": "Spooky Plate",
+      "item_us": "Spooky_Plate",
+      "percent": "2.357"
+    },
+    {
+      "item": "Leftovers",
+      "item_us": "Leftovers",
+      "percent": "1.962"
+    },
+    {
+      "item": "Other",
+      "item_us": "Other",
+      "percent": "3.794"
+    }
+  ],
+  "spreads": [
+    {
+      "nature": "Timid",
+      "ev": "4/0/0/252/0/252",
+      "percent": "22.121"
+    },
+    {
+      "nature": "Timid",
+      "ev": "0/0/4/252/0/252",
+      "percent": "10.733"
+    },
+    {
+      "nature": "Timid",
+      "ev": "4/0/4/244/4/252",
+      "percent": "5.828"
+    },
+    {
+      "nature": "Timid",
+      "ev": "0/0/0/252/4/252",
+      "percent": "4.530"
+    },
+    {
+      "nature": "Modest",
+      "ev": "4/0/4/196/156/148",
+      "percent": "4.239"
+    },
+    {
+      "nature": "Timid",
+      "ev": "172/0/4/76/4/252",
+      "percent": "4.226"
+    },
+    {
+      "nature": "Modest",
+      "ev": "252/0/4/252/0/0",
+      "percent": "4.043"
+    },
+    {
+      "nature": "Timid",
+      "ev": "172/0/4/180/12/140",
+      "percent": "3.725"
+    },
+    {
+      "nature": "Timid",
+      "ev": "108/0/84/60/4/252",
+      "percent": "3.410"
+    },
+    {
+      "nature": "Timid",
+      "ev": "140/0/36/76/4/252",
+      "percent": "2.786"
+    },
+    {
+      "nature": "Timid",
+      "ev": "28/0/4/220/4/252",
+      "percent": "2.641"
+    },
+    {
+      "nature": "Timid",
+      "ev": "28/0/84/140/4/252",
+      "percent": "1.983"
+    },
+    {
+      "nature": "Timid",
+      "ev": "12/0/84/156/4/252",
+      "percent": "1.725"
+    },
+    {
+      "nature": "Timid",
+      "ev": "52/0/20/180/4/252",
+      "percent": "1.296"
+    },
+    {
+      "nature": "Timid",
+      "ev": "252/0/12/52/44/148",
+      "percent": "1.241"
+    },
+    {
+      "nature": "Timid",
+      "ev": "12/0/84/252/4/156",
+      "percent": "1.177"
+    },
+    {
+      "nature": "Modest",
+      "ev": "4/0/4/196/156/140",
+      "percent": "1.079"
+    },
+    {
+      "nature": "Timid",
+      "ev": "180/0/4/180/4/140",
+      "percent": "0.944"
+    },
+    {
+      "nature": "Timid",
+      "ev": "4/0/84/164/4/252",
+      "percent": "0.855"
+    },
+    {
+      "nature": "Timid",
+      "ev": "52/0/68/132/4/252",
+      "percent": "0.843"
+    }
+  ],
+  "moves": [
+    {
+      "move": "Astral Barrage",
+      "percent": "99.959",
+      "type": "ghost"
+    },
+    {
+      "move": "Protect",
+      "percent": "86.816",
+      "type": "normal"
+    },
+    {
+      "move": "Psychic",
+      "percent": "72.292",
+      "type": "psychic"
+    },
+    {
+      "move": "Nasty Plot",
+      "percent": "36.034",
+      "type": "dark"
+    },
+    {
+      "move": "Pollen Puff",
+      "percent": "22.434",
+      "type": "bug"
+    },
+    {
+      "move": "Encore",
+      "percent": "20.554",
+      "type": "normal"
+    },
+    {
+      "move": "Draining Kiss",
+      "percent": "10.320",
+      "type": "fairy"
+    },
+    {
+      "move": "Expanding Force",
+      "percent": "8.865",
+      "type": "psychic"
+    },
+    {
+      "move": "Will-O-Wisp",
+      "percent": "5.614",
+      "type": "fire"
+    },
+    {
+      "move": "Calm Mind",
+      "percent": "5.470",
+      "type": "psychic"
+    },
+    {
+      "move": "Shadow Ball",
+      "percent": "5.399",
+      "type": "ghost"
+    },
+    {
+      "move": "Trick",
+      "percent": "4.699",
+      "type": "psychic"
+    },
+    {
+      "move": "Tera Blast",
+      "percent": "3.785",
+      "type": "normal"
+    },
+    {
+      "move": "Other",
+      "percent": "17.760"
+    }
+  ],
+  "team": [
+    {
+      "pokemon": "Zamazenta-Crowned",
+      "percent": "52.919",
+      "types": [
+        "fighting",
+        "steel"
+      ],
+      "ss": true,
+      "id": 889,
+      "pokemon_trans": "Zamazenta-Crowned",
+      "l": "en"
+    },
+    {
+      "pokemon": "Incineroar",
+      "percent": "40.355",
+      "types": [
+        "fire",
+        "dark"
+      ],
+      "pokemon_trans": "Incineroar",
+      "l": "en"
+    },
+    {
+      "pokemon": "Rillaboom",
+      "percent": "39.174",
+      "types": [
+        "grass"
+      ],
+      "ss": true,
+      "id": 812,
+      "pokemon_trans": "Rillaboom",
+      "l": "en"
+    },
+    {
+      "pokemon": "Raging Bolt",
+      "percent": "27.937",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "ss": true,
+      "id": 1021,
+      "pokemon_trans": "Raging Bolt",
+      "l": "en"
+    },
+    {
+      "pokemon": "Chien-Pao",
+      "percent": "25.402",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "ss": true,
+      "id": 1002,
+      "pokemon_trans": "Chien-Pao",
+      "l": "en"
+    },
+    {
+      "pokemon": "Urshifu-Rapid-Strike",
+      "percent": "19.260",
+      "types": [
+        "fighting",
+        "water"
+      ],
+      "ss": true,
+      "id": 892,
+      "pokemon_trans": "Urshifu-Rapid-Strike",
+      "l": "en"
+    },
+    {
+      "pokemon": "Tornadus",
+      "percent": "18.357",
+      "types": [
+        "flying"
+      ],
+      "pokemon_trans": "Tornadus",
+      "l": "en"
+    },
+    {
+      "pokemon": "Whimsicott",
+      "percent": "17.559",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "pokemon_trans": "Whimsicott",
+      "l": "en"
+    },
+    {
+      "pokemon": "Smeargle",
+      "percent": "14.973",
+      "types": [
+        "normal"
+      ],
+      "pokemon_trans": "Smeargle",
+      "l": "en"
+    },
+    {
+      "pokemon": "Miraidon",
+      "percent": "13.256",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "ss": true,
+      "id": 1008,
+      "pokemon_trans": "Miraidon",
+      "l": "en"
+    }
+  ],
+  "name_trans": "Calyrex-Shadow",
+  "l": "en",
+  "id": 898
+}
